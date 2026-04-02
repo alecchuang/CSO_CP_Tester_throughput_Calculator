@@ -1,0 +1,6 @@
+streamlit
+pandas
+pip 
+matplotlib 
+seaborn 
+openpyxl
